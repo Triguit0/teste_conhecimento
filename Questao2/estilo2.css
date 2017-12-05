@@ -1,0 +1,47 @@
+body {
+    font-family: Montserrat, sans-serif;
+    background-color: #fffdd0;
+}
+#menu{
+    width: 200px;
+    height: 200px;
+    background-color: #f0f3f6;
+    margin: auto;
+    padding: auto;
+    text-align: center;
+}
+h3{
+    text-align: center;
+    font-size: 24px;
+    padding-top: 20px;
+    padding-bottom: 0px;
+}
+a:link{
+    text-decoration: none;
+    color:black;
+    font-size: 18px;
+}
+a:visited{
+    text-decoration: none;
+    color:black;
+}
+a:hover{
+    text-decoration: underline;
+    color:black;
+}
+a:active{
+    text-decoration:none;
+    color:white;
+    background-color: gray;
+}
+form{
+    border: 2px solid white;
+    padding: 10px;
+    margin: 20px auto;
+    width: 250px;
+    text-align: center;
+}
+.inputform{
+    margin-bottom: 4px;
+    padding: 4px;
+}
